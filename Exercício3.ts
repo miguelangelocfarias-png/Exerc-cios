@@ -1,3 +1,4 @@
+//Crie um algoritmo que, a partir da idade do candidato(a), determinar se pode ou não tirar a CNH.Caso o candidato atenda a restrição de idade, mostrar que ele está apto. Caso contrário, calcular quantos anos faltam para o candidato estar apto.
 //declaração de dados
 let entradaIdade: string;
 let idade: number;
