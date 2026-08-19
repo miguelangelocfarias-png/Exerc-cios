@@ -1,3 +1,6 @@
+//Calcular a nota da AV1 da disciplina de Raciocício Lógico Algorítmico, conforme descrito no AVA.
+//Avaliações Composição: AV1 = (0,20 × maior nota entre AF1.1 e AF1.2) + (0,80 × AS).
+//AF — Avaliação Formativa  AS — Avaliação Somativa
 //DECLARAÇÃO
 let entradaAF1:string;
 let entradaAF2:string;
