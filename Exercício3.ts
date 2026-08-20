@@ -10,5 +10,5 @@ idade= parseInt(entradaIdade,10);
 if(idade<18){
     console.log(`Faltam ${18-idade} anos para você estar apto para tirar sua CNH!`);
 }else{
-    console.log(`Voce está apto para tirar sua CNH!`)
+    console.log(`Você está apto para tirar sua CNH!`)
 }
